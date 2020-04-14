@@ -1,8 +1,8 @@
 OS Scheduling Simulator.
 
 Made by Nicholas Pumper and Yuki Suzuki. 
-Do NOT copy or claim as your own. Doing so is plagarism.
-Made for a class taught by Thomas Mirrinan.
+Copyright (C). No use without explicit permission.
+Made for a class.
 
 to run: ./bin/osscheduler ./resrc/configfilehere.txtexample command you can run out of the box: ./bin/osscheduler ./resrc/config_01.txt
 
